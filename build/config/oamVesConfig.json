@@ -1,0 +1,8 @@
+{
+    "vesConfig": {
+        "vesV4IpAddress" : "dcae-ves-collector-service1",
+        "vesPort" : "32047",
+        "username" : "sample1",
+        "password" : "sample1"
+    }
+}

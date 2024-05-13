@@ -1,0 +1,10 @@
+{
+    "NetconfServer": {
+        "MacAddress": "00:0c:29:66:29:f7",
+        "NetconfServerIpv4": "192.168.8.8",
+        "NetconfServerIpv6": "fe80::7376:b5d3:baab:36b8",
+        "NetconfPort": "830",
+        "NetconfUsername": "netconf",
+        "NetconfPassword": "netconf!"
+    }
+}
