@@ -266,7 +266,7 @@ void VesEvent::getConfig()
  ******************************************************************/
 void VesEvent::createUrl()
 {
-   mVesUrl = "https://" + mVesServerIp + ":" + mVesServerPort + "/eventListener/v7";
+   mVesUrl = "https://" + mVesServerIp + ":" + mVesServerPort + "/dcae-ves-collector/eventListener/v7";
 }
 
 
